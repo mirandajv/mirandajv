@@ -2,11 +2,11 @@
 
 # <center>**I'm João Victor**
 
-### 💻 Estudante de Engenharia de Software
+### 💻 Software Engineering Student
 ### 📖 Learning . . .
 
 
-## Conecte se
+## Conect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=~fff)](https://www.linkedin.com/in/joão-victor-miranda-oliveira-4091ab2b9/) 
 
